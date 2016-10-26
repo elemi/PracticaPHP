@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+#lateral{
+	position:absolute;
+	width: 20%;
+	height:85%;
+	margin-top:5%;
+	left:0;
+	top:0;
+	background-color: blue;
+}
